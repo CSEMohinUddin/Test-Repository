@@ -3,3 +3,6 @@ hello git
  
  1st name Comilla
 2nd name alo
+done commit
+good bye
+
